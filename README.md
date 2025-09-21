@@ -1,1 +1,1 @@
-# POC
+A PoC repository
